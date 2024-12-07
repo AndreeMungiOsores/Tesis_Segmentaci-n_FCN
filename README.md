@@ -70,3 +70,6 @@ python main.py
 
 ## Contribuciones
 Este proyecto es parte de una tesis académica, por lo que no se aceptan contribuciones externas en este momento. Si tienes alguna pregunta o sugerencia, puedes contactarme directamente.
+
+## Ejecutable del proyecto
+Link del ejecutable del proyecto, mediante interfaz de usuario: https://drive.google.com/file/d/1geUGjTmUl2M0iIa3daEXcqDhz20HwUGK/view?usp=sharing
