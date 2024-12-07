@@ -1,1 +1,1 @@
-# Tesis_Segmentaci-n_FCN
+# Tesis_Segmentation_FCN
